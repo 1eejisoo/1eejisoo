@@ -1,1 +1,3 @@
-# 1eejisoo
+# Hi I'm Jisoo Lee 👩🏻‍💻
+
+
