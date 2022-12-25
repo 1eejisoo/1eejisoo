@@ -8,6 +8,7 @@
 
 ### 💬 About me
 - 🌱 I'm currently learning back-end skills
+<br>
 
 #### 🛠 Stacks
 <p>
