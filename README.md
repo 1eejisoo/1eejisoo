@@ -20,8 +20,8 @@
 
 #### ⚙️ Github Stats
 <p>
-  <img height="180em" src="https://github-readme-stats-eta-gray.vercel.app/api?username=1eejisoo&show_icons=true&include_all_commits=true&bg_color=30,D1D1D1,5E5E5E&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats-eta-gray.vercel.app/api/top-langs/?username=1eejisoo&layout=compact&bg_color=30,D1D1D1,5E5E5E&title_color=fff&text_color=fff">
+  <img height="180" src="https://github-readme-stats-eta-gray.vercel.app/api?username=1eejisoo&show_icons=true&include_all_commits=true&bg_color=30,D1D1D1,5E5E5E&title_color=fff&text_color=fff">
+  <img height="180" src="https://github-readme-stats-eta-gray.vercel.app/api/top-langs/?username=1eejisoo&layout=compact&bg_color=30,D1D1D1,5E5E5E&title_color=fff&text_color=fff">
 </p>
 
 #### 🏆 Ranking
